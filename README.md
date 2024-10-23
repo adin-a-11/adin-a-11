@@ -1,4 +1,7 @@
-## Hi there 👋
+## Muhammad Adin Ahmed  
+Queen Mary's University of London  
+First year  
+Mathematics student
 
 <!--
 **adin-a-11/adin-a-11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
